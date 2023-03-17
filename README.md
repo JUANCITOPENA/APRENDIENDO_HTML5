@@ -7,6 +7,6 @@ Proyecto asignado de la Materia IHC-1050, Sobre programacion Web con HTML5, Git 
 ## URL; 
 https://juancitopena.github.io/APRENDIENDO_HTML5/
 
-## Capruta de Pantalla:
+### Capruta de Pantalla:
 
 ![](img/fondo.png)
